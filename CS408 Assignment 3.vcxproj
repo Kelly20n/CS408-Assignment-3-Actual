@@ -169,6 +169,7 @@
     <ClInclude Include="ObjStringParsing.h" />
     <ClInclude Include="Sleep.h" />
     <ClInclude Include="SpriteFont.h" />
+    <ClInclude Include="Table.h" />
     <ClInclude Include="Texture.h" />
     <ClInclude Include="TextureBmp.h" />
     <ClInclude Include="TextureManager.h" />
